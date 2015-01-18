@@ -1,0 +1,2 @@
+# MissionariesAndCannibals
+AI planning course
